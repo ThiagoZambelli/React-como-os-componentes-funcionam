@@ -23,3 +23,9 @@
 > - O que é uma closure e como utilizá-la a seu favor;
 > - Como instalar novas dependências na sua aplicação;
 > - Diferença entre export e export default.
+
+* Terceira aula ->
+
+> - O que é Virtual DOM;
+> - Como o React escuta uma mudança e porque precisamos de um state para isto;
+> - Diferença de imperatividade e declaratividade.
