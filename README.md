@@ -14,3 +14,12 @@
 > - A diferença entre biblioteca e framework;
 > - Como instalar dependências de um projeto;
 > - Como rodar um projeto.
+
+* Segunda aula ->
+`(Anotação mental -> dependencia = nova pasta com 'componentes utilizaveis', como os novo icones (muito muito util))`
+
+> - Como criar uma nova prop;
+> - Como passar esta prop para inúmeros componentes;
+> - O que é uma closure e como utilizá-la a seu favor;
+> - Como instalar novas dependências na sua aplicação;
+> - Diferença entre export e export default.
