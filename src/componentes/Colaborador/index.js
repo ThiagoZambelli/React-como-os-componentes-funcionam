@@ -6,7 +6,12 @@ const Colaborador = ({ colaborador, corDeFundo, aoDeletar }) => {
     
     return (
     <div className="colaborador">
-        <FaWindowClose size={25} color={"#ffffff"} className='deletar' onClick={aoDeletar} />
+        <FaWindowClose 
+            size={25} 
+            color={"#ffffff"} 
+            className='deletar' 
+            onClick={() => aoDeletar(colaborador.id)} 
+        />
         <div className="cabecalho" style={{ backgroundColor: corDeFundo }}>
             <img src={colaborador.imagem} alt={colaborador.nome} />
         </div>

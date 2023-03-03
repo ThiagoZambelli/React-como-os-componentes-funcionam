@@ -29,3 +29,10 @@
 > - O que é Virtual DOM;
 > - Como o React escuta uma mudança e porque precisamos de um state para isto;
 > - Diferença de imperatividade e declaratividade.
+
+* Quarta aula ->
+`(Anotação mental -> A integração do React e mesmo fantastica, a reutilização de componentes e a forma como eles interagem entre si é muito util e intuitiva)`
+
+> - A diferença entre two-way data binding e one-way data binding;
+> - Por que o React utiliza one-way data binding;
+> - Por que utilizar id é importante no React.
