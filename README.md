@@ -1,5 +1,11 @@
+![Alt text](public/imagens/banner.png)
+
 ## Segundo Projeto React - `Como Funciona os Componentes`
 > Projeto realizado durante curso na Alura utiliazando REACT
+
+<h1 align="center">Projeto realizado por: </h1>
+
+> [Thiago Zambelli](https://www.linkedin.com/in/thiagozambelli)
 
 
 <hr>
@@ -36,3 +42,11 @@
 > - A diferença entre two-way data binding e one-way data binding;
 > - Por que o React utiliza one-way data binding;
 > - Por que utilizar id é importante no React.
+
+* * Quinta aula -> Ultima aulda do curso concluida;
+`(Anotação mental -> Conditional rendering é extremamente util. Procurar mais informaçoes sobre!)`
+
+> - Como criar um ternário para renderizar de forma opcional;
+> - Como renderizar condicionais de outras formas;
+> - Como refatorar um componente sem atrapalhar a execução primária dele;
+> - A importância de se refatorar um componente em projetos React.
